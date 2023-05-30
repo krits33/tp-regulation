@@ -1,0 +1,10 @@
+(cl:defpackage turtle_regulation_kritika_yassir-srv
+  (:use )
+  (:export
+   "SETWAYPOINTSERVICE"
+   "<SETWAYPOINTSERVICE-REQUEST>"
+   "SETWAYPOINTSERVICE-REQUEST"
+   "<SETWAYPOINTSERVICE-RESPONSE>"
+   "SETWAYPOINTSERVICE-RESPONSE"
+  ))
+

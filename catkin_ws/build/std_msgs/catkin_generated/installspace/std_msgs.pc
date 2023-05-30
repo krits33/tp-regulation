@@ -1,0 +1,8 @@
+prefix=/home/krit3310/catkin_ws/install
+
+Name: std_msgs
+Description: Description of std_msgs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

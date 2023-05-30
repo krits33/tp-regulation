@@ -1,0 +1,2 @@
+geometry_msgs:marker_visualizer:move_turtle:random_walk:roscpp:rospy:sensor_msgs:std_msgs:turtle_regulation_kritika_yassir:udm_ros_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/krit3310/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/krit3310/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/krit3310/catkin_ws/devel
+
+Name: udm_ros_tutorials
+Description: Description of udm_ros_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
